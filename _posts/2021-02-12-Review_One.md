@@ -18,7 +18,7 @@ The “Six Degrees of Francis Bacon” is a website that displays a collection o
 ### How It Works
 
 Initially, the first look at the website is a hive of bubbles in different sizes connected to each other with a few notable names in the bigger bubbles.
-![6 Degrees of Francis Bacon](https://bkilfeather.github.io/Brian-KilfeatherCNU/images/FrancisBacon.jpg)
+![6 Degrees of Francis Bacon](https://bkilfeather.github.io/Brian-KilfeatherCNU/images/FrancisBacon.png)
 Reiterating on how the website works, you are able to click or type a name/groups in the top left corner. From there, a graph appears showing the relationship between the person you searched for and the individual you are trying to link them to. Then, the website provides a table to click with a list of their names, historical significance, birth and death date, and relationship. The website is very complex relative to its more or less simple goal of creating a web of people’s relationships. 
 
 At first glance the operability of the website is overwhelming. Learning on your own how to operate the networking would be a doozy; luckily though there is a tutorial in the help tab. Because of how the hooke aesthetic is set up, the website in general slows down computers. It is also not available on mobile devices. It only works through a tablet or computer because it requires a wide view. Yet, this site seems more apt for people with more experience in DH technology, rather than a casual viewer.  
